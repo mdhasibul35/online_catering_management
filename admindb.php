@@ -12,5 +12,6 @@ if ($rowcount==1) {
 }
 else
 {
+  
   header('Location: one.php');
 }

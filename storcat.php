@@ -17,6 +17,7 @@ if($conn)
 		header("Location: caterconfirm.php");
 	}
 }
+
 else{
 	echo "not connect";
 }

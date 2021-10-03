@@ -66,7 +66,6 @@ li a{
       no-repeat center center fixed;
   background-size: cover;
   font-family: sans-serif; }
-
   .inner{
     background: url(images/cake.jpg);
     color: black;

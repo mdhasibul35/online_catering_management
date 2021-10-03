@@ -15,7 +15,6 @@ if($conn)
 
 	if($rowcount==1)
 	{
-
         header("Location: existaccount.php");
 		//echo "sorry ! account exist already";
 	}

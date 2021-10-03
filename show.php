@@ -12,7 +12,6 @@ if($conn)
 else{
   echo "not connect";
 }
-
 ?>
 
 

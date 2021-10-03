@@ -70,6 +70,7 @@ li a{
   .inner{
     background: url(images/cake.jpg);
     color: black;
+    
   }
     .cap{
     color:white;

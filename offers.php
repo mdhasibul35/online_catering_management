@@ -93,7 +93,6 @@
           &nbsp;&nbsp;<span class="fbc">Linkedin</span></a>  
 
     </h3>
-     
 </div>
 </div>
 </div>

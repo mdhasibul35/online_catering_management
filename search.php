@@ -15,8 +15,6 @@
   background: url(images/13.jfif);
   no-repeat center center fixed;
   background-size: cover;
-  
-
 }
 
 </style>

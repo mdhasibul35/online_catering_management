@@ -71,6 +71,7 @@ li a{
     background: url(images/cake.jpg);
     color: black;
   }
+  
   .cap{
     color:white;
     padding: 10px;

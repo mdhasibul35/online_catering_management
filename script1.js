@@ -207,5 +207,6 @@ $(document).ready(function() {
 			$("#buyerInfo").append('<p>Fill up all the inputs</p>');
 		}
 	})
+	
 
 })

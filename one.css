@@ -1,7 +1,7 @@
 
 body{
 	background: url(images/13.jfif);
-	no-repeat center center fixed;
+	no-repeat-center: center fixed;
 	background-size: cover;
 	font-family: sans-serif;
 
@@ -16,6 +16,7 @@ header{
 }
 .head
 {
+	
 	float: left;
 	color: #fff;
 	font-family: cursive;

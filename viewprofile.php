@@ -14,7 +14,6 @@ else{
   echo "not connect";
 }
 ?>
-
 <html lang="en">
   <head>
     <!-- Required meta tags -->

@@ -15,6 +15,7 @@ if($row['username']==$username && $row['password']==$password){
 	echo "yes";
 }
 else{
+	
    echo "sorry";
 }
 

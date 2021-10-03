@@ -47,6 +47,7 @@
             <div class="slide">
         <img src="images/p3.jpg" alt="">
       </div>
+      
             <div class="slide">
         <img src="images/p4.jpg" alt="">
       </div>

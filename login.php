@@ -14,8 +14,6 @@ if(!isset($SESSION['login']))
 <head>
   <meta charset="UTF-8">
   <title>Catering Management System</title>
-  
-  
   <link rel='stylesheet prefetch' href='https://fonts.googleapis.com/css?family=Open+Sans:600'>
   <link rel="stylesheet" type="text/css" href="login.css">
   <link rel="stylesheet" type="text/css" href="one.css">

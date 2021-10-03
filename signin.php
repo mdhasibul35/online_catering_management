@@ -15,6 +15,7 @@ if(!empty($username)){
 			die('Connect Error('. mysqli_connect_errno().')'.mysqli_connect_error());
 
 		}
+		
 		else{
 			$sql="INSERT INTO register(username,password)values('$username','$password')";
 			if($conn->query($sql)){

@@ -15,7 +15,6 @@
     init: function($element) {
       this.items = [];
       this.itemsMatched = [];
-      
       this.$element = $element;
       this.$list = this.$element.find(this.$LIST);
       this.$search = this.$element.find(this.$SEARCH);

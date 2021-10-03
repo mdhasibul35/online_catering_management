@@ -57,7 +57,6 @@ li a{
 
 .active{
   color: gold;
-
 }
     body{ background: url(images/13.jfif);
       no-repeat center center fixed;

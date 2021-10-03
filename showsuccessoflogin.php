@@ -17,6 +17,8 @@
 	background-size: cover;
 	font-family: sans-serif; }
 	h1{
+		
+
 		border:2px solid green;
 		border-radius: 3px;
 		font-weight: bold;

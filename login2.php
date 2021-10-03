@@ -18,6 +18,7 @@
 		color:red;
 		background-color: white;
 		padding: 25px;
+		
 	}
 	body{
 		background: url(images/13.jfif);

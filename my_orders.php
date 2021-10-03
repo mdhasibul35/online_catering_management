@@ -11,7 +11,6 @@
 <body>
 	<div class="loginbox">
 		<img src="images/icon.jpg" class="avatar"> 
-
 		<h1><big>Login</big></h1>
 		<form>
 			<p>Username</p>
