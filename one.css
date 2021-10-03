@@ -1,0 +1,93 @@
+
+body{
+	background: url(images/13.jfif);
+	no-repeat center center fixed;
+	background-size: cover;
+	font-family: sans-serif;
+
+}
+
+header{
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
+	margin: 3px;
+
+}
+.head
+{
+	float: left;
+	color: #fff;
+	font-family: cursive;
+
+}
+
+nav
+{
+	float: right;
+
+}
+
+li{
+	display: inline;
+	padding:1rem;
+}
+
+li a{
+	color:#fff;
+	text-decoration: none;
+	font-weight: bold;
+
+}
+
+.active{
+	color: gold;
+
+}
+
+.container
+{
+	width:70%;
+	margin: auto;
+	overflow: hidden;
+	margin-top: 1%;
+}
+showcase h1{
+	color:#fff;
+	text-align: center;
+	font-family: cursive;
+
+
+}
+
+.category{
+	color: #fff;
+	margin-top: 5%;
+	display: flex;
+	text-align: center;
+	font-family: cursive;
+
+}
+
+img{
+	width: 70%;
+	border-radius: 50%;
+
+}
+
+.snacks, .grills{
+	padding-left:1rem;
+
+}
+
+h4{
+	font-size: 2rem;
+	margin: 4%;
+}
+
+.btn{
+	background-color: gold;
+	padding: 1rem;
+	border-radius: 2%;
+	margin-left: 50%;
+}
