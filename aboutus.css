@@ -1,0 +1,100 @@
+body{
+	font-family: sans-serif;
+}
+
+header{
+    margin: auto;
+    overflow: hidden;
+    background-color: black;
+
+
+}
+.head
+{
+	float: left;
+	color: #fff;
+	font-family: cursive;
+        margin-left: 10%;
+
+}
+body
+{
+background: url("images/p6.jpg");
+	no-repeat center center fixed;
+	background-size: cover;
+	font-family: sans-serif;
+
+}
+nav
+{
+	float: right;
+	margin-right: 10%;
+
+}
+
+li{
+	display: inline;
+	padding:1rem;
+}
+
+li a{
+	color:#fff;
+	text-decoration: none;
+	font-weight: bold;
+
+}
+
+.active{
+	color: gold;
+
+}
+.container
+{
+     height: 80vh;
+    width: 30%;
+    background: rgba(0,0,0,.6);
+    position: absolute;
+    top: -25%;
+    left: 50%;
+    transform: translate(-50%,50%);
+
+}
+
+.img{
+	height: 70px;
+	width: 70px;
+	background:url(images/13.jfif)no-repeat;
+	background-size: cover;
+	background-position: center;
+	
+	border-radius: 50px;
+	position: absolute;
+	top: -15%;
+	left: 50%;
+	transform: translate(-50%,50%);
+}
+
+.container h1{
+	color:white;
+	margin-top: 50px;
+
+
+}
+.container p{
+	color:white;
+	margin-top: 50px;
+	font-size: large;
+
+
+}
+.btn
+{
+	border: 1px solid green;
+	color:blue;
+	width:50%;
+	padding:7px;
+	font-size: large;
+}
+h2{
+	margin-left: 10%;
+}
