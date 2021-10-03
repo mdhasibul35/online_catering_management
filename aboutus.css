@@ -20,7 +20,7 @@ header{
 body
 {
 background: url("images/p6.jpg");
-	no-repeat center center fixed;
+	no-repeat-center: center fixed;
 	background-size: cover;
 	font-family: sans-serif;
 
